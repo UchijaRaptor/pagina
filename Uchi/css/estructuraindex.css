@@ -1,0 +1,172 @@
+#contenedor2 {
+	background-color: #003366;
+	height: 300px;
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+}
+#contenedor1 {
+	height: auto;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #003399;
+}
+
+#contenedor3 {
+	background-color: #0000CC;
+	height: 300px;
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+}
+
+#titulo {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+}
+#presentacion {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+}
+
+
+#parafo1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+
+#subcontenedor1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #FFFF66;
+	height: 150px;
+	width: 100%;
+}
+#principal {
+	background-color: #99CC00;
+	height: 100px;
+	width: 50%;
+	float: left;
+}
+#secundario {
+	background-color: #000066;
+	float: right;
+	height: 100px;
+	width: 50%;
+}
+
+
+
+
+#subcontenedor2 {
+	background-color: #CCCCCC;
+	height: 150px;
+	width: 60%;
+	float: left;
+}
+#subcontenedor3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #999999;
+	height: 150px;
+	width: 40%;
+	float: right;
+	text-align: center;
+}
+#subcontenedor2-2 {
+	background-color: #999999;
+	height: 300px;
+	width: 60%;
+	float: left;
+}
+#txt1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: justify;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-style: italic;
+}
+#txt2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: justify;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-style: italic;
+}
+#contenedor4 {
+	height: 400px;
+	width: 100%;
+}
+#subcontenedor1-4 {
+	background-color: #CCCCCC;
+	float: left;
+	height: 400px;
+	width: 60%;
+}
+#subcontenedor2-4 {
+	background-color: #CCCCCC;
+	height: 400px;
+	width: 40%;
+	float: right;
+}
+
+
+
+
+#subcontenedor3-2 {
+	background-color: #999999;
+	height: 300px;
+	width: 40%;
+	float: right;
+}
+#subcontenedor1-3 {
+	background-color: #00CC33;
+	float: left;
+	height: 300px;
+	width: 33%;
+}
+
+
+#subcontenedor2-3 {
+	height: 300px;
+	width: 34%;
+	float: left;
+}
+#subcontenedor3-3 {
+	float: right;
+	height: 300px;
+	width: 33%;
+}
+
+#hijo5 {
+	background-color: #FF0000;
+	float: left;
+	height: 100px;
+	width: 100%;
+}
+#nieto1 {
+	background-color: #CCCCCC;
+	float: left;
+	height: 100px;
+	width: 100%;
+}
+#txt3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	text-align: center;
+}
+#inicio {
+	background-color: #0033CC;
+	height: 100px;
+	width: 100%;
+}
